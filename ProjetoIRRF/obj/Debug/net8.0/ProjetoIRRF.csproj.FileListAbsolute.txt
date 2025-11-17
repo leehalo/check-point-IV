@@ -1,0 +1,15 @@
+/workspaces/check-point-IV/ProjetoIRRF/bin/Debug/net8.0/ProjetoIRRF
+/workspaces/check-point-IV/ProjetoIRRF/bin/Debug/net8.0/ProjetoIRRF.deps.json
+/workspaces/check-point-IV/ProjetoIRRF/bin/Debug/net8.0/ProjetoIRRF.runtimeconfig.json
+/workspaces/check-point-IV/ProjetoIRRF/bin/Debug/net8.0/ProjetoIRRF.dll
+/workspaces/check-point-IV/ProjetoIRRF/bin/Debug/net8.0/ProjetoIRRF.pdb
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ProjetoIRRF.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ProjetoIRRF.AssemblyInfoInputs.cache
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ProjetoIRRF.AssemblyInfo.cs
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ProjetoIRRF.csproj.CoreCompileInputs.cache
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ProjetoIRRF.sourcelink.json
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ProjetoIRRF.dll
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/refint/ProjetoIRRF.dll
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ProjetoIRRF.pdb
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ProjetoIRRF.genruntimeconfig.cache
+/workspaces/check-point-IV/ProjetoIRRF/obj/Debug/net8.0/ref/ProjetoIRRF.dll
